@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-int number = 100;
-printf("%c", number);
-return0;
+  int number = 100;
+  printf("%i", number);
+  return0;
 }
